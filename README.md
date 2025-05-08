@@ -7,7 +7,8 @@
 - Determine high-value customers based on total spending.
 - Generate actionable insights to support business decision-making.
 
-## Dataset
+## Dataset used
+- <a href="https://github.com/puvvaditeja/Chinook-Database-Analysis-SQL-Project-/blob/main/Chinook_MySql.sql">Dataset</a>
 
 ## Database Schema
 ![Screenshot 2025-04-29 131735](https://github.com/user-attachments/assets/1813ae89-d570-4239-a69b-57c216ae9ab3)
