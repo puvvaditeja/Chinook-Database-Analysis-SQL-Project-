@@ -7,6 +7,11 @@
 - Determine high-value customers based on total spending.
 - Generate actionable insights to support business decision-making.
 
+## Dataset
+
+## Database Schema
+![Screenshot 2025-04-29 131735](https://github.com/user-attachments/assets/1813ae89-d570-4239-a69b-57c216ae9ab3)
+
 ## Questions
 - Find the Top 5 customers by total invoice amount
 - Find the Number of tracks in each genre
